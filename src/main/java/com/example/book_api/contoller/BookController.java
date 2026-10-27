@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.server.ResponseStatusException;
 
 import com.example.book_api.model.Book;
-import com.example.book_api.service.BookService; 
+import com.example.book_api.service.BookService;    
 
 @Controller
 public class BookController {   //test       
